@@ -31,5 +31,10 @@ Proyek ini dilakukan untuk menganalisis bagaimana perilaku pelanggan yang mengaj
 3. Melakukan analisis pengaruh status perkawinan terhadap jangka waktu meminjam.
 4. Membuat visualisasi.
 5. Interpretasi.
-   
 
+## 6. Portofolio Short Class MySkill
+Proyek ini dilakukan untuk memprediksi penyakit diabetes menggunakan algoritma KNN. Hal yang dilakukan:
+1. Data preprocessing.
+2. Melatih model KNN.
+3. Mengevaluasi model KNN.
+4. Interpretasi.
