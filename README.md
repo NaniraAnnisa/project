@@ -23,3 +23,13 @@ Proyek ini dilakukan untuk memprediksi apakah seorang pasien mengidap penyakit j
 5. Membangun model decision tree dan regresi logistik.
 6. Interpretasi.
 ## 4. Latihan D-2 ADS BNSP
+
+## 5. Portofolio Digifest Rakamin
+Proyek ini dilakukan untuk menganalisis bagaimana perilaku pelanggan yang mengajukan pinjaman ke bank. Hal yang dilakukan:
+1. Data preprocessing yang meliputi handling missing value, handling duplicated data, handling outlier, dan feature encoding.
+2. Melakukan analisis minat pelanggan berdasarkan pada tipe properti.
+3. Melakukan analisis pengaruh status perkawinan terhadap jangka waktu meminjam.
+4. Membuat visualisasi.
+5. Interpretasi.
+   
+
